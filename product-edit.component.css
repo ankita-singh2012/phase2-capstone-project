@@ -1,0 +1,9 @@
+.container{
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid rgb(130, 238, 157);
+}
+input{
+    width: 20%;
+}
