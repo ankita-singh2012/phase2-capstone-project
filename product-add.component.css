@@ -1,9 +1,8 @@
 .container{
-    margin: auto;
-    padding: 10px;
-    text-align: center;
-    border: 2px solid violet;
-}
-input{
-    width: 20%;
+    margin:auto;
+    margin-top:30px;
+    background-color: skyblue;
+    border:none;
+    border-radius: 25px;
+    padding: 30px;
 }

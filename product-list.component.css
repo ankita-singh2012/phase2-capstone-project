@@ -1,0 +1,7 @@
+input[type=number]{
+    width: 50px;
+}
+.h1,h1{
+    text-align: center;
+    padding-block: initial;
+}
